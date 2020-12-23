@@ -1,0 +1,1222 @@
+# LANGUAGE translation of CakePHP Application
+# Copyright YEAR NAME <EMAIL@ADDRESS>
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"POT-Creation-Date: 2020-10-20 01:22+0000\n"
+"PO-Revision-Date: 2020-10-19 21:57-0400\n"
+"Language-Team: LANGUAGE <EMAIL@ADDRESS>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 2.4.1\n"
+"Last-Translator: \n"
+"Language: es_MX\n"
+
+#: Controller/ColorsController.php:54 Controller/ColorsController.php:78
+msgid "The color has been saved."
+msgstr ""
+
+#: Controller/ColorsController.php:58 Controller/ColorsController.php:82
+msgid "The color could not be saved. Please, try again."
+msgstr ""
+
+#: Controller/ColorsController.php:99
+msgid "The color has been deleted."
+msgstr ""
+
+#: Controller/ColorsController.php:101
+msgid "The color could not be deleted. Please, try again."
+msgstr ""
+
+#: Controller/CountriesController.php:54 Controller/CountriesController.php:78
+msgid "The country has been saved."
+msgstr ""
+
+#: Controller/CountriesController.php:58 Controller/CountriesController.php:82
+msgid "The country could not be saved. Please, try again."
+msgstr ""
+
+#: Controller/CountriesController.php:99
+msgid "The country has been deleted."
+msgstr ""
+
+#: Controller/CountriesController.php:101
+msgid "The country could not be deleted. Please, try again."
+msgstr ""
+
+#: Controller/FilesController.php:97
+msgid "File has been uploaded and inserted successfully."
+msgstr ""
+
+#: Controller/FilesController.php:101 Controller/FilesController.php:104
+msgid "Unable to upload file, please try again."
+msgstr ""
+
+#: Controller/FilesController.php:107
+msgid "Please choose a file to upload."
+msgstr ""
+
+#: Controller/FilesController.php:129
+msgid "The file has been saved."
+msgstr ""
+
+#: Controller/FilesController.php:133
+msgid "The file could not be saved. Please, try again."
+msgstr ""
+
+#: Controller/FilesController.php:151
+msgid "The file has been deleted."
+msgstr ""
+
+#: Controller/FilesController.php:153
+msgid "The file could not be deleted. Please, try again."
+msgstr ""
+
+#: Controller/GrapesController.php:54 Controller/GrapesController.php:79
+msgid "The grape has been saved."
+msgstr ""
+
+#: Controller/GrapesController.php:58 Controller/GrapesController.php:83
+msgid "The grape could not be saved. Please, try again."
+msgstr ""
+
+#: Controller/GrapesController.php:101
+msgid "The grape has been deleted."
+msgstr ""
+
+#: Controller/GrapesController.php:103
+msgid "The grape could not be deleted. Please, try again."
+msgstr ""
+
+#: Controller/RegionsController.php:57 Controller/RegionsController.php:82
+msgid "The region has been saved."
+msgstr ""
+
+#: Controller/RegionsController.php:61 Controller/RegionsController.php:86
+msgid "The region could not be saved. Please, try again."
+msgstr ""
+
+#: Controller/RegionsController.php:104
+msgid "The region has been deleted."
+msgstr ""
+
+#: Controller/RegionsController.php:106
+msgid "The region could not be deleted. Please, try again."
+msgstr ""
+
+#: Controller/RolesController.php:54 Controller/RolesController.php:78
+msgid "The role has been saved."
+msgstr ""
+
+#: Controller/RolesController.php:58 Controller/RolesController.php:82
+msgid "The role could not be saved. Please, try again."
+msgstr ""
+
+#: Controller/RolesController.php:99
+msgid "The role has been deleted."
+msgstr ""
+
+#: Controller/RolesController.php:101
+msgid "The role could not be deleted. Please, try again."
+msgstr ""
+
+#: Controller/UsersController.php:27
+msgid "Please confirm your email"
+msgstr ""
+
+#: Controller/UsersController.php:37
+msgid "Missing parameter"
+msgstr ""
+
+#: Controller/UsersController.php:56
+msgid "Please confirm your email to acces the users list"
+msgstr ""
+
+#: Controller/UsersController.php:67
+msgid "Confirm your email"
+msgstr ""
+
+#: Controller/UsersController.php:75
+msgid "Thank you"
+msgstr ""
+
+#: Controller/UsersController.php:75
+msgid "Your email has been confirmed"
+msgstr ""
+
+#: Controller/UsersController.php:78
+msgid "The confirmation could not be saved. PLease, try again."
+msgstr ""
+
+#: Controller/UsersController.php:132 Controller/UsersController.php:161
+msgid "The user has been saved."
+msgstr ""
+
+#: Controller/UsersController.php:136 Controller/UsersController.php:165
+msgid "The user could not be saved. Please, try again."
+msgstr ""
+
+#: Controller/UsersController.php:183
+msgid "The user has been deleted."
+msgstr ""
+
+#: Controller/UsersController.php:185
+msgid "The user could not be deleted. Please, try again."
+msgstr ""
+
+#: Controller/VineyardsController.php:54 Controller/VineyardsController.php:78
+msgid "The vineyard has been saved."
+msgstr ""
+
+#: Controller/VineyardsController.php:58 Controller/VineyardsController.php:82
+msgid "The vineyard could not be saved. Please, try again."
+msgstr ""
+
+#: Controller/VineyardsController.php:99
+msgid "The vineyard has been deleted."
+msgstr ""
+
+#: Controller/VineyardsController.php:101
+msgid "The vineyard could not be deleted. Please, try again."
+msgstr ""
+
+#: Controller/WinesController.php:95 Controller/WinesController.php:127
+msgid "The wine has been saved."
+msgstr ""
+
+#: Controller/WinesController.php:99 Controller/WinesController.php:131
+msgid "The wine could not be saved. Please, try again."
+msgstr ""
+
+#: Controller/WinesController.php:156
+msgid "The wine has been deleted."
+msgstr ""
+
+#: Controller/WinesController.php:158
+msgid "The wine could not be deleted. Please, try again."
+msgstr ""
+
+#: Controller/YearsController.php:54 Controller/YearsController.php:78
+msgid "The year has been saved."
+msgstr ""
+
+#: Controller/YearsController.php:58 Controller/YearsController.php:82
+msgid "The year could not be saved. Please, try again."
+msgstr ""
+
+#: Controller/YearsController.php:99
+msgid "The year has been deleted."
+msgstr ""
+
+#: Controller/YearsController.php:101
+msgid "The year could not be deleted. Please, try again."
+msgstr ""
+
+#: Template/Colors/add.ctp:9 Template/Colors/edit.ctp:9
+#: Template/Colors/index.ctp:9 Template/Colors/index.ctp:22
+#: Template/Colors/view.ctp:9 Template/Colors/view.ctp:46
+#: Template/Countries/add.ctp:9 Template/Countries/edit.ctp:9
+#: Template/Countries/index.ctp:9 Template/Countries/index.ctp:24
+#: Template/Countries/view.ctp:9 Template/Countries/view.ctp:40
+#: Template/Countries/view.ctp:73 Template/Files/add.ctp:9
+#: Template/Files/edit.ctp:9 Template/Files/index.ctp:9
+#: Template/Files/index.ctp:26 Template/Files/view.ctp:9
+#: Template/Files/view.ctp:65 Template/Grapes/add.ctp:9
+#: Template/Grapes/edit.ctp:9 Template/Grapes/index.ctp:9
+#: Template/Grapes/index.ctp:22 Template/Grapes/view.ctp:9
+#: Template/Grapes/view.ctp:49 Template/Regions/add.ctp:9
+#: Template/Regions/edit.ctp:9 Template/Regions/index.ctp:9
+#: Template/Regions/index.ctp:25 Template/Regions/view.ctp:9
+#: Template/Regions/view.ctp:52 Template/Roles/add.ctp:9
+#: Template/Roles/edit.ctp:9 Template/Roles/index.ctp:9
+#: Template/Roles/index.ctp:22 Template/Roles/view.ctp:9
+#: Template/Roles/view.ctp:46 Template/Users/add.ctp:9
+#: Template/Users/edit.ctp:9 Template/Users/index.ctp:9
+#: Template/Users/index.ctp:31 Template/Users/view.ctp:9
+#: Template/Users/view.ctp:79 Template/Vineyards/add.ctp:9
+#: Template/Vineyards/edit.ctp:9 Template/Vineyards/index.ctp:9
+#: Template/Vineyards/index.ctp:22 Template/Vineyards/view.ctp:9
+#: Template/Vineyards/view.ctp:46 Template/Wines/add.ctp:9
+#: Template/Wines/edit.ctp:9 Template/Wines/index.ctp:9
+#: Template/Wines/index.ctp:45 Template/Wines/view.ctp:9
+#: Template/Wines/view.ctp:115 Template/Years/add.ctp:9
+#: Template/Years/edit.ctp:9 Template/Years/index.ctp:9
+#: Template/Years/index.ctp:22 Template/Years/view.ctp:9
+#: Template/Years/view.ctp:49
+msgid "Actions"
+msgstr ""
+
+#: Template/Colors/add.ctp:10 Template/Colors/edit.ctp:16
+#: Template/Colors/view.ctp:12 Template/Wines/add.ctp:14
+#: Template/Wines/edit.ctp:20 Template/Wines/index.ctp:14
+#: Template/Wines/view.ctp:17
+msgid "List Colors"
+msgstr ""
+
+#: Template/Colors/add.ctp:11 Template/Colors/edit.ctp:17
+#: Template/Colors/index.ctp:11 Template/Colors/view.ctp:14
+#: Template/Countries/add.ctp:13 Template/Countries/edit.ctp:19
+#: Template/Countries/index.ctp:13 Template/Countries/view.ctp:16
+#: Template/Files/add.ctp:11 Template/Files/edit.ctp:17
+#: Template/Files/index.ctp:11 Template/Files/view.ctp:14
+#: Template/Grapes/add.ctp:11 Template/Grapes/edit.ctp:17
+#: Template/Grapes/index.ctp:11 Template/Grapes/view.ctp:14
+#: Template/Regions/add.ctp:13 Template/Regions/edit.ctp:19
+#: Template/Regions/index.ctp:13 Template/Regions/view.ctp:16
+#: Template/Users/add.ctp:13 Template/Users/edit.ctp:19
+#: Template/Users/index.ctp:13 Template/Users/view.ctp:16
+#: Template/Vineyards/add.ctp:11 Template/Vineyards/edit.ctp:17
+#: Template/Vineyards/index.ctp:11 Template/Vineyards/view.ctp:14
+#: Template/Wines/add.ctp:10 Template/Wines/edit.ctp:16
+#: Template/Wines/view.ctp:12 Template/Years/add.ctp:11
+#: Template/Years/edit.ctp:17 Template/Years/index.ctp:11
+#: Template/Years/view.ctp:14
+msgid "List Wines"
+msgstr "Lista de vinos"
+
+#: Template/Colors/add.ctp:12 Template/Colors/edit.ctp:18
+#: Template/Colors/index.ctp:12 Template/Colors/view.ctp:15
+#: Template/Countries/add.ctp:14 Template/Countries/edit.ctp:20
+#: Template/Countries/index.ctp:14 Template/Countries/view.ctp:17
+#: Template/Files/add.ctp:12 Template/Files/edit.ctp:18
+#: Template/Files/index.ctp:12 Template/Files/view.ctp:15
+#: Template/Grapes/add.ctp:12 Template/Grapes/edit.ctp:18
+#: Template/Grapes/index.ctp:12 Template/Grapes/view.ctp:15
+#: Template/Regions/add.ctp:14 Template/Regions/edit.ctp:20
+#: Template/Regions/index.ctp:14 Template/Regions/view.ctp:17
+#: Template/Users/add.ctp:14 Template/Users/edit.ctp:20
+#: Template/Users/index.ctp:14 Template/Users/view.ctp:17
+#: Template/Vineyards/add.ctp:12 Template/Vineyards/edit.ctp:18
+#: Template/Vineyards/index.ctp:12 Template/Vineyards/view.ctp:15
+#: Template/Wines/index.ctp:10 Template/Wines/view.ctp:13
+#: Template/Years/add.ctp:12 Template/Years/edit.ctp:18
+#: Template/Years/index.ctp:12 Template/Years/view.ctp:15
+msgid "New Wine"
+msgstr "Vinos nuevos"
+
+#: Template/Colors/add.ctp:18
+msgid "Add Color"
+msgstr ""
+
+#: Template/Colors/add.ctp:23 Template/Colors/edit.ctp:29
+#: Template/Countries/add.ctp:25 Template/Countries/edit.ctp:31
+#: Template/Files/add.ctp:26 Template/Files/edit.ctp:32
+#: Template/Grapes/add.ctp:23 Template/Grapes/edit.ctp:29
+#: Template/Regions/add.ctp:26 Template/Regions/edit.ctp:32
+#: Template/Roles/add.ctp:24 Template/Roles/edit.ctp:30
+#: Template/Users/add.ctp:28 Template/Users/edit.ctp:34
+#: Template/Vineyards/add.ctp:23 Template/Vineyards/edit.ctp:29
+#: Template/Wines/add.ctp:45 Template/Wines/edit.ctp:53
+#: Template/Years/add.ctp:23 Template/Years/edit.ctp:29
+#: View/Helper/FormHelper.php:2036
+msgid "Submit"
+msgstr "Enviar"
+
+#: Template/Colors/edit.ctp:11 Template/Colors/index.ctp:33
+#: Template/Colors/view.ctp:64 Template/Countries/edit.ctp:11
+#: Template/Countries/index.ctp:35 Template/Countries/view.ctp:50
+#: Template/Countries/view.ctp:91 Template/Files/edit.ctp:11
+#: Template/Files/index.ctp:41 Template/Files/view.ctp:86
+#: Template/Grapes/edit.ctp:11 Template/Grapes/index.ctp:33
+#: Template/Grapes/view.ctp:70 Template/Regions/edit.ctp:11
+#: Template/Regions/index.ctp:37 Template/Regions/view.ctp:70
+#: Template/Roles/edit.ctp:11 Template/Roles/index.ctp:33
+#: Template/Roles/view.ctp:60 Template/Users/edit.ctp:11
+#: Template/Users/index.ctp:49 Template/Users/view.ctp:100
+#: Template/Vineyards/edit.ctp:11 Template/Vineyards/index.ctp:33
+#: Template/Vineyards/view.ctp:64 Template/Wines/edit.ctp:11
+#: Template/Wines/index.ctp:69 Template/Wines/view.ctp:124
+#: Template/Years/edit.ctp:11 Template/Years/index.ctp:33
+#: Template/Years/view.ctp:70
+msgid "Delete"
+msgstr "Eliminar"
+
+#: Template/Colors/edit.ctp:13 Template/Colors/index.ctp:33
+#: Template/Colors/view.ctp:11 Template/Colors/view.ctp:64
+#: Template/Countries/edit.ctp:13 Template/Countries/index.ctp:35
+#: Template/Countries/view.ctp:11 Template/Countries/view.ctp:50
+#: Template/Countries/view.ctp:91 Template/Files/edit.ctp:13
+#: Template/Files/index.ctp:41 Template/Files/view.ctp:11
+#: Template/Files/view.ctp:86 Template/Grapes/edit.ctp:13
+#: Template/Grapes/index.ctp:33 Template/Grapes/view.ctp:11
+#: Template/Grapes/view.ctp:70 Template/Regions/edit.ctp:13
+#: Template/Regions/index.ctp:37 Template/Regions/view.ctp:11
+#: Template/Regions/view.ctp:70 Template/Roles/edit.ctp:13
+#: Template/Roles/index.ctp:33 Template/Roles/view.ctp:11
+#: Template/Roles/view.ctp:60 Template/Users/edit.ctp:13
+#: Template/Users/index.ctp:49 Template/Users/view.ctp:11
+#: Template/Users/view.ctp:100 Template/Vineyards/edit.ctp:13
+#: Template/Vineyards/index.ctp:33 Template/Vineyards/view.ctp:11
+#: Template/Vineyards/view.ctp:64 Template/Wines/edit.ctp:13
+#: Template/Wines/index.ctp:69 Template/Wines/view.ctp:11
+#: Template/Wines/view.ctp:124 Template/Years/edit.ctp:13
+#: Template/Years/index.ctp:33 Template/Years/view.ctp:11
+#: Template/Years/view.ctp:70
+msgid "Are you sure you want to delete # {0}?"
+msgstr ""
+
+#: Template/Colors/edit.ctp:24 Template/Colors/view.ctp:10
+msgid "Edit Color"
+msgstr ""
+
+#: Template/Colors/index.ctp:10 Template/Colors/view.ctp:13
+#: Template/Wines/add.ctp:15 Template/Wines/edit.ctp:21
+#: Template/Wines/index.ctp:15 Template/Wines/view.ctp:18
+msgid "New Color"
+msgstr ""
+
+#: Template/Colors/index.ctp:16
+msgid "Colors"
+msgstr ""
+
+#: Template/Colors/index.ctp:31 Template/Colors/view.ctp:62
+#: Template/Countries/index.ctp:33 Template/Countries/view.ctp:48
+#: Template/Countries/view.ctp:89 Template/Files/index.ctp:39
+#: Template/Files/view.ctp:84 Template/Grapes/index.ctp:31
+#: Template/Grapes/view.ctp:68 Template/Regions/index.ctp:35
+#: Template/Regions/view.ctp:68 Template/Roles/index.ctp:31
+#: Template/Roles/view.ctp:58 Template/Users/index.ctp:47
+#: Template/Users/view.ctp:98 Template/Vineyards/index.ctp:31
+#: Template/Vineyards/view.ctp:62 Template/Wines/index.ctp:67
+#: Template/Wines/view.ctp:122 Template/Years/index.ctp:31
+#: Template/Years/view.ctp:68 View/Helper/PaginatorHelper.php:1273
+msgid "View"
+msgstr ""
+
+#: Template/Colors/index.ctp:32 Template/Colors/view.ctp:63
+#: Template/Countries/index.ctp:34 Template/Countries/view.ctp:49
+#: Template/Countries/view.ctp:90 Template/Files/index.ctp:40
+#: Template/Files/view.ctp:85 Template/Grapes/index.ctp:32
+#: Template/Grapes/view.ctp:69 Template/Regions/index.ctp:36
+#: Template/Regions/view.ctp:69 Template/Roles/index.ctp:32
+#: Template/Roles/view.ctp:59 Template/Users/index.ctp:48
+#: Template/Users/view.ctp:99 Template/Vineyards/index.ctp:32
+#: Template/Vineyards/view.ctp:63 Template/Wines/index.ctp:68
+#: Template/Wines/view.ctp:123 Template/Years/index.ctp:32
+#: Template/Years/view.ctp:69
+msgid "Edit"
+msgstr ""
+
+#: Template/Colors/index.ctp:41 Template/Countries/index.ctp:43
+#: Template/Files/index.ctp:49 Template/Grapes/index.ctp:41
+#: Template/Regions/index.ctp:45 Template/Roles/index.ctp:41
+#: Template/Users/index.ctp:57 Template/Vineyards/index.ctp:41
+#: Template/Wines/index.ctp:77 Template/Years/index.ctp:41
+msgid "first"
+msgstr ""
+
+#: Template/Colors/index.ctp:42 Template/Countries/index.ctp:44
+#: Template/Files/index.ctp:50 Template/Grapes/index.ctp:42
+#: Template/Regions/index.ctp:46 Template/Roles/index.ctp:42
+#: Template/Users/index.ctp:58 Template/Vineyards/index.ctp:42
+#: Template/Wines/index.ctp:78 Template/Years/index.ctp:42
+msgid "previous"
+msgstr ""
+
+#: Template/Colors/index.ctp:44 Template/Countries/index.ctp:46
+#: Template/Files/index.ctp:52 Template/Grapes/index.ctp:44
+#: Template/Regions/index.ctp:48 Template/Roles/index.ctp:44
+#: Template/Users/index.ctp:60 Template/Vineyards/index.ctp:44
+#: Template/Wines/index.ctp:80 Template/Years/index.ctp:44
+msgid "next"
+msgstr ""
+
+#: Template/Colors/index.ctp:45 Template/Countries/index.ctp:47
+#: Template/Files/index.ctp:53 Template/Grapes/index.ctp:45
+#: Template/Regions/index.ctp:49 Template/Roles/index.ctp:45
+#: Template/Users/index.ctp:61 Template/Vineyards/index.ctp:45
+#: Template/Wines/index.ctp:81 Template/Years/index.ctp:45
+msgid "last"
+msgstr ""
+
+#: Template/Colors/index.ctp:47 Template/Countries/index.ctp:49
+#: Template/Files/index.ctp:55 Template/Grapes/index.ctp:47
+#: Template/Regions/index.ctp:51 Template/Roles/index.ctp:47
+#: Template/Users/index.ctp:63 Template/Vineyards/index.ctp:47
+#: Template/Wines/index.ctp:83 Template/Years/index.ctp:47
+msgid ""
+"Page {{page}} of {{pages}}, showing {{current}} record(s) out of {{count}} "
+"total"
+msgstr ""
+
+#: Template/Colors/view.ctp:11
+msgid "Delete Color"
+msgstr ""
+
+#: Template/Colors/view.ctp:22 Template/Colors/view.ctp:42
+#: Template/Countries/view.ctp:24 Template/Countries/view.ctp:39
+#: Template/Countries/view.ctp:69 Template/Files/view.ctp:22
+#: Template/Files/view.ctp:58 Template/Grapes/view.ctp:22
+#: Template/Grapes/view.ctp:42 Template/Regions/view.ctp:28
+#: Template/Regions/view.ctp:48 Template/Roles/view.ctp:22
+#: Template/Users/view.ctp:72 Template/Vineyards/view.ctp:22
+#: Template/Vineyards/view.ctp:42 Template/Wines/view.ctp:59
+#: Template/Wines/view.ctp:114 Template/Years/view.ctp:42
+msgid "Name"
+msgstr "Nombre"
+
+#: Template/Colors/view.ctp:26 Template/Colors/view.ctp:35
+#: Template/Countries/view.ctp:28 Template/Countries/view.ctp:37
+#: Template/Countries/view.ctp:62 Template/Files/view.ctp:30
+#: Template/Files/view.ctp:51 Template/Grapes/view.ctp:26
+#: Template/Grapes/view.ctp:35 Template/Regions/view.ctp:32
+#: Template/Regions/view.ctp:41 Template/Roles/view.ctp:26
+#: Template/Roles/view.ctp:39 Template/Users/view.ctp:44
+#: Template/Users/view.ctp:65 Template/Vineyards/view.ctp:26
+#: Template/Vineyards/view.ctp:35 Template/Wines/view.ctp:63
+#: Template/Wines/view.ctp:113 Template/Years/view.ctp:26
+#: Template/Years/view.ctp:35
+msgid "Id"
+msgstr ""
+
+#: Template/Colors/view.ctp:31 Template/Countries/view.ctp:58
+#: Template/Files/view.ctp:47 Template/Grapes/view.ctp:31
+#: Template/Regions/view.ctp:37 Template/Users/view.ctp:61
+#: Template/Vineyards/view.ctp:31 Template/Years/view.ctp:31
+msgid "Related Wines"
+msgstr ""
+
+#: Template/Colors/view.ctp:36 Template/Countries/view.ctp:63
+#: Template/Files/view.ctp:53 Template/Grapes/view.ctp:37
+#: Template/Regions/view.ctp:42 Template/Users/view.ctp:67
+#: Template/Vineyards/view.ctp:36 Template/Years/view.ctp:37
+msgid "Color Id"
+msgstr ""
+
+#: Template/Colors/view.ctp:37 Template/Countries/view.ctp:38
+#: Template/Countries/view.ctp:64 Template/Files/view.ctp:54
+#: Template/Grapes/view.ctp:38 Template/Regions/view.ctp:43
+#: Template/Users/view.ctp:68 Template/Vineyards/view.ctp:37
+#: Template/Years/view.ctp:38
+msgid "Country Id"
+msgstr ""
+
+#: Template/Colors/view.ctp:38 Template/Countries/view.ctp:65
+#: Template/Regions/view.ctp:44 Template/Vineyards/view.ctp:38
+msgid "Grape Id"
+msgstr ""
+
+#: Template/Colors/view.ctp:39 Template/Countries/view.ctp:66
+#: Template/Files/view.ctp:55 Template/Grapes/view.ctp:39
+#: Template/Regions/view.ctp:45 Template/Users/view.ctp:69
+#: Template/Vineyards/view.ctp:39 Template/Years/view.ctp:39
+msgid "Region Id"
+msgstr ""
+
+#: Template/Colors/view.ctp:40 Template/Countries/view.ctp:67
+#: Template/Files/view.ctp:56 Template/Grapes/view.ctp:40
+#: Template/Regions/view.ctp:46 Template/Users/view.ctp:70
+#: Template/Vineyards/view.ctp:40 Template/Years/view.ctp:40
+msgid "Vineyard Id"
+msgstr ""
+
+#: Template/Colors/view.ctp:41 Template/Countries/view.ctp:68
+#: Template/Files/view.ctp:57 Template/Grapes/view.ctp:41
+#: Template/Regions/view.ctp:47 Template/Users/view.ctp:71
+#: Template/Vineyards/view.ctp:41 Template/Years/view.ctp:41
+msgid "Year Id"
+msgstr ""
+
+#: Template/Colors/view.ctp:43 Template/Countries/view.ctp:70
+#: Template/Files/view.ctp:59 Template/Grapes/view.ctp:43
+#: Template/Regions/view.ctp:49 Template/Users/view.ctp:73
+#: Template/Vineyards/view.ctp:43 Template/Wines/view.ctp:67
+#: Template/Years/view.ctp:43
+msgid "Price"
+msgstr "Precio"
+
+#: Template/Colors/view.ctp:44 Template/Countries/view.ctp:71
+#: Template/Files/view.ctp:60 Template/Grapes/view.ctp:44
+#: Template/Regions/view.ctp:50 Template/Roles/view.ctp:31
+#: Template/Users/view.ctp:74 Template/Vineyards/view.ctp:44
+#: Template/Wines/view.ctp:84 Template/Years/view.ctp:44
+msgid "Description"
+msgstr "Descripción"
+
+#: Template/Colors/view.ctp:45 Template/Countries/view.ctp:72
+#: Template/Files/view.ctp:61 Template/Grapes/view.ctp:45
+#: Template/Regions/view.ctp:51 Template/Users/view.ctp:75
+#: Template/Vineyards/view.ctp:45 Template/Years/view.ctp:45
+msgid "Photo"
+msgstr ""
+
+#: Template/Countries/add.ctp:10 Template/Countries/edit.ctp:16
+#: Template/Countries/view.ctp:12 Template/Regions/add.ctp:11
+#: Template/Regions/edit.ctp:17 Template/Regions/index.ctp:11
+#: Template/Regions/view.ctp:14 Template/Wines/add.ctp:16
+#: Template/Wines/edit.ctp:22 Template/Wines/index.ctp:16
+#: Template/Wines/view.ctp:19
+msgid "List Countries"
+msgstr ""
+
+#: Template/Countries/add.ctp:11 Template/Countries/edit.ctp:17
+#: Template/Countries/index.ctp:11 Template/Countries/view.ctp:14
+#: Template/Regions/add.ctp:10 Template/Regions/edit.ctp:16
+#: Template/Regions/view.ctp:12 Template/Wines/add.ctp:20
+#: Template/Wines/edit.ctp:26 Template/Wines/index.ctp:20
+#: Template/Wines/view.ctp:23
+msgid "List Regions"
+msgstr ""
+
+#: Template/Countries/add.ctp:12 Template/Countries/edit.ctp:18
+#: Template/Countries/index.ctp:12 Template/Countries/view.ctp:15
+#: Template/Regions/index.ctp:10 Template/Regions/view.ctp:13
+#: Template/Wines/add.ctp:21 Template/Wines/edit.ctp:27
+#: Template/Wines/index.ctp:21 Template/Wines/view.ctp:24
+msgid "New Region"
+msgstr ""
+
+#: Template/Countries/add.ctp:20
+msgid "Add Country"
+msgstr ""
+
+#: Template/Countries/edit.ctp:26 Template/Countries/view.ctp:10
+msgid "Edit Country"
+msgstr ""
+
+#: Template/Countries/index.ctp:10 Template/Countries/view.ctp:13
+#: Template/Regions/add.ctp:12 Template/Regions/edit.ctp:18
+#: Template/Regions/index.ctp:12 Template/Regions/view.ctp:15
+#: Template/Wines/add.ctp:17 Template/Wines/edit.ctp:23
+#: Template/Wines/index.ctp:17 Template/Wines/view.ctp:20
+msgid "New Country"
+msgstr ""
+
+#: Template/Countries/index.ctp:18
+msgid "Countries"
+msgstr "Países"
+
+#: Template/Countries/view.ctp:11
+msgid "Delete Country"
+msgstr ""
+
+#: Template/Countries/view.ctp:33
+msgid "Related Regions"
+msgstr ""
+
+#: Template/Files/add.ctp:10 Template/Files/edit.ctp:16
+#: Template/Files/view.ctp:12
+msgid "List Files"
+msgstr ""
+
+#: Template/Files/add.ctp:18
+msgid "Add File"
+msgstr ""
+
+#: Template/Files/edit.ctp:24 Template/Files/view.ctp:10
+msgid "Edit File"
+msgstr ""
+
+#: Template/Files/index.ctp:10 Template/Files/view.ctp:13
+#: Template/Wines/add.ctp:13 Template/Wines/edit.ctp:19
+#: Template/Wines/index.ctp:13 Template/Wines/view.ctp:16
+msgid "New File"
+msgstr ""
+
+#: Template/Files/index.ctp:16
+msgid "Files"
+msgstr "Archivos"
+
+#: Template/Files/view.ctp:11
+msgid "Delete File"
+msgstr ""
+
+#: Template/Files/view.ctp:26
+msgid "Path"
+msgstr ""
+
+#: Template/Files/view.ctp:34 Template/Files/view.ctp:63
+#: Template/Grapes/view.ctp:47 Template/Roles/view.ctp:44
+#: Template/Users/view.ctp:48 Template/Users/view.ctp:77
+#: Template/Wines/view.ctp:75 Template/Years/view.ctp:47
+msgid "Created"
+msgstr ""
+
+#: Template/Files/view.ctp:38 Template/Files/view.ctp:64
+#: Template/Grapes/view.ctp:48 Template/Roles/view.ctp:45
+#: Template/Users/view.ctp:52 Template/Users/view.ctp:78
+#: Template/Wines/view.ctp:79 Template/Years/view.ctp:48
+msgid "Modified"
+msgstr ""
+
+#: Template/Files/view.ctp:42
+msgid "Status"
+msgstr ""
+
+#: Template/Files/view.ctp:43 Template/Users/view.ctp:57
+msgid "Yes"
+msgstr "Si"
+
+#: Template/Files/view.ctp:43 Template/Users/view.ctp:57
+msgid "No"
+msgstr ""
+
+#: Template/Files/view.ctp:52 Template/Grapes/view.ctp:36
+#: Template/Users/view.ctp:66 Template/Years/view.ctp:36
+msgid "User Id"
+msgstr ""
+
+#: Template/Files/view.ctp:62 Template/Grapes/view.ctp:46
+#: Template/Users/view.ctp:76 Template/Wines/view.ctp:71
+#: Template/Years/view.ctp:46
+msgid "Rating AVG"
+msgstr ""
+
+#: Template/Grapes/add.ctp:10 Template/Grapes/edit.ctp:16
+#: Template/Grapes/view.ctp:12 Template/Wines/add.ctp:18
+#: Template/Wines/edit.ctp:24 Template/Wines/index.ctp:18
+#: Template/Wines/view.ctp:21
+msgid "List Grapes"
+msgstr ""
+
+#: Template/Grapes/add.ctp:18
+msgid "Add Grape"
+msgstr ""
+
+#: Template/Grapes/edit.ctp:24 Template/Grapes/view.ctp:10
+msgid "Edit Grape"
+msgstr ""
+
+#: Template/Grapes/index.ctp:10 Template/Grapes/view.ctp:13
+#: Template/Wines/add.ctp:19 Template/Wines/edit.ctp:25
+#: Template/Wines/index.ctp:19 Template/Wines/view.ctp:22
+msgid "New Grape"
+msgstr ""
+
+#: Template/Grapes/index.ctp:16
+msgid "Grapes"
+msgstr ""
+
+#: Template/Grapes/view.ctp:11
+msgid "Delete Grape"
+msgstr ""
+
+#: Template/Layout/default.ctp:64
+msgid "About"
+msgstr "Acerca de"
+
+#: Template/Layout/error.ctp:36 Template/Error/error400.ctp:36
+#: Template/Error/error500.ctp:41
+msgid "Error"
+msgstr ""
+
+#: Template/Layout/error.ctp:44
+msgid "Back"
+msgstr ""
+
+#: Template/Pages/a_propos.ctp:8
+msgid "Simon Nolet"
+msgstr ""
+
+#: Template/Pages/a_propos.ctp:9
+msgid "4205B7MO Applications Internet"
+msgstr ""
+
+#: Template/Pages/a_propos.ctp:10
+msgid "Automne 2020, Collège Montmorency"
+msgstr ""
+
+#: Template/Regions/add.ctp:20
+msgid "Add Region"
+msgstr ""
+
+#: Template/Regions/edit.ctp:26 Template/Regions/view.ctp:10
+msgid "Edit Region"
+msgstr ""
+
+#: Template/Regions/index.ctp:18
+msgid "Regions"
+msgstr ""
+
+#: Template/Regions/view.ctp:11
+msgid "Delete Region"
+msgstr ""
+
+#: Template/Regions/view.ctp:24 Template/Wines/view.ctp:43
+msgid "Country"
+msgstr ""
+
+#: Template/Roles/add.ctp:10 Template/Roles/edit.ctp:16
+#: Template/Roles/view.ctp:12 Template/Users/add.ctp:11
+#: Template/Users/edit.ctp:17 Template/Users/index.ctp:11
+#: Template/Users/view.ctp:14
+msgid "List Roles"
+msgstr ""
+
+#: Template/Roles/add.ctp:11 Template/Roles/edit.ctp:17
+#: Template/Roles/index.ctp:11 Template/Roles/view.ctp:14
+#: Template/Users/add.ctp:10 Template/Users/edit.ctp:16
+#: Template/Users/view.ctp:12 Template/Wines/add.ctp:11
+#: Template/Wines/edit.ctp:17 Template/Wines/index.ctp:11
+#: Template/Wines/view.ctp:14
+msgid "List Users"
+msgstr ""
+
+#: Template/Roles/add.ctp:12 Template/Roles/edit.ctp:18
+#: Template/Roles/index.ctp:12 Template/Roles/view.ctp:15
+#: Template/Users/index.ctp:10 Template/Users/view.ctp:13
+#: Template/Wines/add.ctp:12 Template/Wines/edit.ctp:18
+#: Template/Wines/index.ctp:12 Template/Wines/view.ctp:15
+msgid "New User"
+msgstr ""
+
+#: Template/Roles/add.ctp:18
+msgid "Add Role"
+msgstr ""
+
+#: Template/Roles/edit.ctp:24 Template/Roles/view.ctp:10
+msgid "Edit Role"
+msgstr ""
+
+#: Template/Roles/index.ctp:10 Template/Roles/view.ctp:13
+#: Template/Users/add.ctp:12 Template/Users/edit.ctp:18
+#: Template/Users/index.ctp:12 Template/Users/view.ctp:15
+msgid "New Role"
+msgstr ""
+
+#: Template/Roles/index.ctp:16
+msgid "Roles"
+msgstr ""
+
+#: Template/Roles/view.ctp:11
+msgid "Delete Role"
+msgstr ""
+
+#: Template/Roles/view.ctp:35
+msgid "Related Users"
+msgstr ""
+
+#: Template/Roles/view.ctp:40
+msgid "Role Id"
+msgstr ""
+
+#: Template/Roles/view.ctp:41 Template/Users/view.ctp:28
+msgid "Username"
+msgstr ""
+
+#: Template/Roles/view.ctp:42 Template/Users/view.ctp:32
+msgid "Email"
+msgstr "Correo electrónico"
+
+#: Template/Roles/view.ctp:43 Template/Users/view.ctp:36
+msgid "Password"
+msgstr "Contraseña"
+
+#: Template/Users/add.ctp:20
+msgid "Add User"
+msgstr ""
+
+#: Template/Users/edit.ctp:26 Template/Users/view.ctp:10
+msgid "Edit User"
+msgstr ""
+
+#: Template/Users/index.ctp:18
+msgid "Users"
+msgstr "Usuario"
+
+#: Template/Users/view.ctp:11
+msgid "Delete User"
+msgstr ""
+
+#: Template/Users/view.ctp:24
+msgid "Role"
+msgstr ""
+
+#: Template/Users/view.ctp:40
+msgid "Uuid"
+msgstr ""
+
+#: Template/Users/view.ctp:56
+msgid "Confirmed"
+msgstr ""
+
+#: Template/Vineyards/add.ctp:10 Template/Vineyards/edit.ctp:16
+#: Template/Vineyards/view.ctp:12 Template/Wines/add.ctp:22
+#: Template/Wines/edit.ctp:28 Template/Wines/index.ctp:22
+#: Template/Wines/view.ctp:25
+msgid "List Vineyards"
+msgstr ""
+
+#: Template/Vineyards/add.ctp:18
+msgid "Add Vineyard"
+msgstr ""
+
+#: Template/Vineyards/edit.ctp:24 Template/Vineyards/view.ctp:10
+msgid "Edit Vineyard"
+msgstr ""
+
+#: Template/Vineyards/index.ctp:10 Template/Vineyards/view.ctp:13
+#: Template/Wines/add.ctp:23 Template/Wines/edit.ctp:29
+#: Template/Wines/index.ctp:23 Template/Wines/view.ctp:26
+msgid "New Vineyard"
+msgstr ""
+
+#: Template/Vineyards/index.ctp:16
+msgid "Vineyards"
+msgstr ""
+
+#: Template/Vineyards/view.ctp:11
+msgid "Delete Vineyard"
+msgstr ""
+
+#: Template/Wines/add.ctp:24 Template/Wines/edit.ctp:30
+#: Template/Wines/index.ctp:24 Template/Wines/view.ctp:27
+#: Template/Years/add.ctp:10 Template/Years/edit.ctp:16
+#: Template/Years/view.ctp:12
+msgid "List Years"
+msgstr ""
+
+#: Template/Wines/add.ctp:25 Template/Wines/edit.ctp:31
+#: Template/Wines/index.ctp:25 Template/Wines/view.ctp:28
+#: Template/Years/index.ctp:10 Template/Years/view.ctp:13
+msgid "New Year"
+msgstr ""
+
+#: Template/Wines/add.ctp:31
+msgid "Add Wine"
+msgstr ""
+
+#: Template/Wines/edit.ctp:37 Template/Wines/view.ctp:10
+msgid "Edit Wine"
+msgstr ""
+
+#: Template/Wines/index.ctp:29
+msgid "Wines"
+msgstr "Vinos"
+
+#: Template/Wines/view.ctp:11
+msgid "Delete Wine"
+msgstr ""
+
+#: Template/Wines/view.ctp:35
+msgid "User"
+msgstr "Usuario"
+
+#: Template/Wines/view.ctp:39
+msgid "Color"
+msgstr ""
+
+#: Template/Wines/view.ctp:47
+msgid "Region"
+msgstr ""
+
+#: Template/Wines/view.ctp:51
+msgid "Vineyard"
+msgstr ""
+
+#: Template/Wines/view.ctp:55
+msgid "Year"
+msgstr ""
+
+#: Template/Wines/view.ctp:90
+msgid "Images"
+msgstr ""
+
+#: Template/Wines/view.ctp:109
+msgid "Grape Varieties"
+msgstr ""
+
+#: Template/Years/add.ctp:18
+msgid "Add Year"
+msgstr ""
+
+#: Template/Years/edit.ctp:24 Template/Years/view.ctp:10
+msgid "Edit Year"
+msgstr ""
+
+#: Template/Years/index.ctp:16
+msgid "Years"
+msgstr ""
+
+#: Template/Years/view.ctp:11
+msgid "Delete Year"
+msgstr ""
+
+#: Template/Years/view.ctp:22
+msgid "Year Number"
+msgstr ""
+
+#: Template/Error/error400.ctp:37
+msgid "The requested address {0} was not found on this server."
+msgstr ""
+
+#: Template/Error/error500.ctp:39
+msgid "An Internal Error Has Occurred"
+msgstr ""
+
+#: Controller/Component/AuthComponent.php:502
+msgid "You are not authorized to access that location."
+msgstr ""
+
+#: Controller/Component/CsrfComponent.php:181
+#: Http/Middleware/CsrfProtectionMiddleware.php:228
+msgid "Missing CSRF token cookie"
+msgstr ""
+
+#: Controller/Component/CsrfComponent.php:185
+#: Http/Middleware/CsrfProtectionMiddleware.php:232
+msgid "CSRF token mismatch."
+msgstr ""
+
+#: Error/ExceptionRenderer.php:301
+msgid "Not Found"
+msgstr ""
+
+#: Error/ExceptionRenderer.php:303
+msgid "An Internal Error Has Occurred."
+msgstr ""
+
+#: Http/Response.php:2677
+msgid "The requested file contains `..` and will not be read."
+msgstr ""
+
+#: Http/Response.php:2698
+msgid "The requested file was not found"
+msgstr ""
+
+#: I18n/Number.php:106
+msgid "{0,number,#,###.##} KB"
+msgstr ""
+
+#: I18n/Number.php:108
+msgid "{0,number,#,###.##} MB"
+msgstr ""
+
+#: I18n/Number.php:110
+msgid "{0,number,#,###.##} GB"
+msgstr ""
+
+#: I18n/Number.php:112
+msgid "{0,number,#,###.##} TB"
+msgstr ""
+
+#: I18n/Number.php:104
+msgid "{0,number,integer} Byte"
+msgid_plural "{0,number,integer} Bytes"
+msgstr[0] ""
+msgstr[1] ""
+
+#: I18n/RelativeTimeFormatter.php:80
+msgid "{0} from now"
+msgstr ""
+
+#: I18n/RelativeTimeFormatter.php:80
+msgid "{0} ago"
+msgstr ""
+
+#: I18n/RelativeTimeFormatter.php:83
+msgid "{0} after"
+msgstr ""
+
+#: I18n/RelativeTimeFormatter.php:83
+msgid "{0} before"
+msgstr ""
+
+#: I18n/RelativeTimeFormatter.php:114
+msgid "just now"
+msgstr ""
+
+#: I18n/RelativeTimeFormatter.php:151
+msgid "about a second ago"
+msgstr ""
+
+#: I18n/RelativeTimeFormatter.php:152
+msgid "about a minute ago"
+msgstr ""
+
+#: I18n/RelativeTimeFormatter.php:153
+msgid "about an hour ago"
+msgstr ""
+
+#: I18n/RelativeTimeFormatter.php:154 I18n/RelativeTimeFormatter.php:332
+msgid "about a day ago"
+msgstr ""
+
+#: I18n/RelativeTimeFormatter.php:155 I18n/RelativeTimeFormatter.php:333
+msgid "about a week ago"
+msgstr ""
+
+#: I18n/RelativeTimeFormatter.php:156 I18n/RelativeTimeFormatter.php:334
+msgid "about a month ago"
+msgstr ""
+
+#: I18n/RelativeTimeFormatter.php:157 I18n/RelativeTimeFormatter.php:335
+msgid "about a year ago"
+msgstr ""
+
+#: I18n/RelativeTimeFormatter.php:168
+msgid "in about a second"
+msgstr ""
+
+#: I18n/RelativeTimeFormatter.php:169
+msgid "in about a minute"
+msgstr ""
+
+#: I18n/RelativeTimeFormatter.php:170
+msgid "in about an hour"
+msgstr ""
+
+#: I18n/RelativeTimeFormatter.php:171 I18n/RelativeTimeFormatter.php:346
+msgid "in about a day"
+msgstr ""
+
+#: I18n/RelativeTimeFormatter.php:172 I18n/RelativeTimeFormatter.php:347
+msgid "in about a week"
+msgstr ""
+
+#: I18n/RelativeTimeFormatter.php:173 I18n/RelativeTimeFormatter.php:348
+msgid "in about a month"
+msgstr ""
+
+#: I18n/RelativeTimeFormatter.php:174 I18n/RelativeTimeFormatter.php:349
+msgid "in about a year"
+msgstr ""
+
+#: I18n/RelativeTimeFormatter.php:304
+msgid "today"
+msgstr ""
+
+#: I18n/RelativeTimeFormatter.php:370
+msgid "%s ago"
+msgstr ""
+
+#: I18n/RelativeTimeFormatter.php:371
+msgid "on %s"
+msgstr ""
+
+#: I18n/RelativeTimeFormatter.php:47 I18n/RelativeTimeFormatter.php:126
+#: I18n/RelativeTimeFormatter.php:316
+msgid "{0} year"
+msgid_plural "{0} years"
+msgstr[0] ""
+msgstr[1] ""
+
+#: I18n/RelativeTimeFormatter.php:51 I18n/RelativeTimeFormatter.php:129
+#: I18n/RelativeTimeFormatter.php:319
+msgid "{0} month"
+msgid_plural "{0} months"
+msgstr[0] ""
+msgstr[1] ""
+
+#: I18n/RelativeTimeFormatter.php:57 I18n/RelativeTimeFormatter.php:132
+#: I18n/RelativeTimeFormatter.php:322
+msgid "{0} week"
+msgid_plural "{0} weeks"
+msgstr[0] ""
+msgstr[1] ""
+
+#: I18n/RelativeTimeFormatter.php:59 I18n/RelativeTimeFormatter.php:135
+#: I18n/RelativeTimeFormatter.php:325
+msgid "{0} day"
+msgid_plural "{0} days"
+msgstr[0] ""
+msgstr[1] ""
+
+#: I18n/RelativeTimeFormatter.php:64 I18n/RelativeTimeFormatter.php:138
+msgid "{0} hour"
+msgid_plural "{0} hours"
+msgstr[0] ""
+msgstr[1] ""
+
+#: I18n/RelativeTimeFormatter.php:68 I18n/RelativeTimeFormatter.php:141
+msgid "{0} minute"
+msgid_plural "{0} minutes"
+msgstr[0] ""
+msgstr[1] ""
+
+#: I18n/RelativeTimeFormatter.php:72 I18n/RelativeTimeFormatter.php:144
+msgid "{0} second"
+msgid_plural "{0} seconds"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ORM/RulesChecker.php:56
+msgid "This value is already in use"
+msgstr ""
+
+#: ORM/RulesChecker.php:103
+msgid "This value does not exist"
+msgstr ""
+
+#: ORM/RulesChecker.php:127
+msgid "The count does not match {0}{1}"
+msgstr ""
+
+#: Utility/Text.php:933
+msgid "and"
+msgstr ""
+
+#: Validation/Validator.php:2510 View/Form/ArrayContext.php:226
+msgid "This field is required"
+msgstr ""
+
+#: Validation/Validator.php:2532
+msgid "This field cannot be left empty"
+msgstr ""
+
+#: Validation/Validator.php:2691
+msgid "The provided value is invalid"
+msgstr ""
+
+#: View/Helper/FormHelper.php:1114
+msgid "Edit {0}"
+msgstr ""
+
+#: View/Helper/FormHelper.php:1116
+msgid "New {0}"
+msgstr ""
+
+#: View/Helper/HtmlHelper.php:831
+msgid "Home"
+msgstr ""
+
+#: View/Widget/DateTimeWidget.php:539
+msgid "January"
+msgstr ""
+
+#: View/Widget/DateTimeWidget.php:540
+msgid "February"
+msgstr ""
+
+#: View/Widget/DateTimeWidget.php:541
+msgid "March"
+msgstr ""
+
+#: View/Widget/DateTimeWidget.php:542
+msgid "April"
+msgstr ""
+
+#: View/Widget/DateTimeWidget.php:543
+msgid "May"
+msgstr ""
+
+#: View/Widget/DateTimeWidget.php:544
+msgid "June"
+msgstr ""
+
+#: View/Widget/DateTimeWidget.php:545
+msgid "July"
+msgstr ""
+
+#: View/Widget/DateTimeWidget.php:546
+msgid "August"
+msgstr ""
+
+#: View/Widget/DateTimeWidget.php:547
+msgid "September"
+msgstr ""
+
+#: View/Widget/DateTimeWidget.php:548
+msgid "October"
+msgstr ""
+
+#: View/Widget/DateTimeWidget.php:549
+msgid "November"
+msgstr ""
+
+#: View/Widget/DateTimeWidget.php:550
+msgid "December"
+msgstr ""
